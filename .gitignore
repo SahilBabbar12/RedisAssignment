@@ -1,0 +1,28 @@
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Windows
+*Zone.Identifier
+*_Zone.Identifier
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Security/endpoint metadata
+*.endpointdlp
+*_sec.endpointdlp
+
+# Environment files
+.env
+.env.*
